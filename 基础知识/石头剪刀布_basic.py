@@ -1,5 +1,3 @@
-'''python
-
 import random
 guess_list = ['石头','剪刀','布']
 win_combination = [["布","石头"],["石头","剪刀"],['剪刀','布']]
@@ -18,5 +16,3 @@ while True:
     else:
         print("Human wins!!!")
     break
-
-'''
